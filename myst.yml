@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: cf45e195-d274-4140-b951-c20c1759bd43
+  title: how to invest with an AI assistant
+  description: learn how to build an AI assistant from scrach to invest in the stock market
+  keywords: [stock, AI, ]
+  authors:
+    - name: markqiu
+      affiliations:
+        - jinniuai
+    # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
